@@ -1,2 +1,2 @@
-# Bacter
-An open source implementation.
+# Ballx server
+For ballxgame.github.io
